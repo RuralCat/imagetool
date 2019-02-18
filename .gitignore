@@ -1,0 +1,14 @@
+
+# ignore temp file
+.ipynb_checkpoints/
+*.pyc
+*pycache*
+
+# ignore vs code setting
+.vs/
+
+# ignore ide setting
+.idea/
+
+# ignore results
+results/
